@@ -1,8 +1,13 @@
 # Sebaran COVID-19 di Indonesia
 ----------------------------------------------------------------------------
 ## Terkonfirmasi
-![]('terkonfirmasi.png)
+![](terkonfirmasi.png)  
 
+## Sembuh
+![](terkonfirmasi.png)  
+
+## Meninggal
+![](terkonfirmasi.png)
 
 ##
 
