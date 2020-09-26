@@ -1,14 +1,14 @@
 # Sebaran COVID-19 di Indonesia  
-![](covid.jpg)
+![](img/coronavirus.jpg)
 ----------------------------------------------------------------------------
 ## Positif
-![](positif.png)  
+![](img/positif.png)  
 
 ## Sembuh
-![](sembuh.png)  
+![](img/sembuh.png)  
 
 ## Meninggal
-![](meninggal.png)
+![](img/meninggal.png)
 
 
 # Geodata
