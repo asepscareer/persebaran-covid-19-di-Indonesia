@@ -5,17 +5,30 @@
 - Jumlah kasus positif di setiap provinsi yang ada di Indonesia  
 
 <div>
-    <a href="https://plotly.com/~asepsaputra/1/?share_key=sHfWhCU8EqaGRMc3Fd913N" target="_blank" title="map covid positif" style="display: block; text-align: center;"><img src="https://plotly.com/~asepsaputra/1.png?share_key=sHfWhCU8EqaGRMc3Fd913N" alt="map covid positif" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <a href="https://plotly.com/~asepsaputra/4/?share_key=1fn3tVwTGcG7v4p6jScIHR" target="_blank" title="kasus positif" style="display: block; text-align: center;"><img src="https://plotly.com/~asepsaputra/4.png?share_key=1fn3tVwTGcG7v4p6jScIHR" alt="kasus positif" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>  
 
-  
-- peta sebaran  
+- Peta sebaran  
 ![](img/positif.png)  
 
 ## Sembuh
+- Jumlah kasus kesembuhan di setiap provinsi yang ada di Indonesia  
+
+<div>
+    <a href="https://plotly.com/~asepsaputra/6/?share_key=gXVa1yGwDodFjD9Kc4sbyZ" target="_blank" title="kasus sembuh" style="display: block; text-align: center;"><img src="https://plotly.com/~asepsaputra/6.png?share_key=gXVa1yGwDodFjD9Kc4sbyZ" alt="kasus sembuh" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+</div>  
+
+- Peta sebaran
 ![](img/sembuh.png)  
 
 ## Meninggal
+- Jumlah kasus meninggal di setiap provinsi yang ada di Indonesia  
+
+<div>
+    <a href="https://plotly.com/~asepsaputra/6/?share_key=gXVa1yGwDodFjD9Kc4sbyZ" target="_blank" title="kasus sembuh" style="display: block; text-align: center;"><img src="https://plotly.com/~asepsaputra/6.png?share_key=gXVa1yGwDodFjD9Kc4sbyZ" alt="kasus sembuh" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+</div>  
+
+- Peta sebaran
 ![](img/meninggal.png)
 
 
