@@ -1,4 +1,5 @@
-# Sebaran COVID-19 di Indonesia
+# Sebaran COVID-19 di Indonesia  
+![](covid.jpg)
 ----------------------------------------------------------------------------
 ## Positif
 ![](positif.png)  
